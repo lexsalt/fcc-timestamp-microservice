@@ -1,0 +1,25 @@
+{
+  "name": "fcc-timestamp",
+  "version": "1.0.0",
+  "description": "timestamp-microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexsalt/fcc-timestamp-microservice.git"
+  },
+  "keywords": [
+    "timestamp",
+    "microservice",
+    "fcc",
+    "freecodecamp"
+  ],
+  "author": "Emiliano",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/lexsalt/fcc-timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/lexsalt/fcc-timestamp-microservice#readme"
+}
