@@ -14,7 +14,7 @@ app.use(function middleware(req, res, next){
   })
 
 app.get('/', (req, res) => {
-    res.sendFile(__dirname + "/view/index.html");
+    res.sendFile(__dirname + "/index.html");
 })
 
 app.get('/api/:date', (req,res) => {
